@@ -46,8 +46,9 @@ O projeto está organizado em módulos para facilitar a compreensão e manutenç
 ### Iniciando o Servidor
 
 1. Clone o repositório: `git clone https://github.com/guido-marinho/trybot.git`
-2. Navegue até o diretório: `cd trybot/trybot/src`
-3. Execute o servidor: `python app.py`
+2- Navegue até o diretório: cd trybot
+3- Execute o comando: docker-compose up ou Execute o servidor: `python app.py`
+
 
 Acesse a aplicação em [http://localhost:8000](http://localhost:8000) e comece a explorar o TryBot!
 
